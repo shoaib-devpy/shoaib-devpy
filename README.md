@@ -2,12 +2,10 @@
 
 ## About Me
 - 👀 I’m interested in **Blockchain Technology**, **Machine Learning**, **AI Development**, **Fintech Solutions**, and **Decentralized Applications (DApps)**.
-- 🌱 I’m currently learning **crypto on-chain analysis**, **Solana**, and advanced concepts in **blockchain** and **AI**.
 - 💞️ I’m looking to collaborate on **innovative projects in blockchain, AI, ML and fintech**, especially those that involve creating **smart contracts**, **decentralized applications**, and **AI-driven solutions**.
 - 📫 How to reach me:
   - 📧 **Email**: [shoaib.devpy@outlook.com](mailto:shoaib.devpy@outlook.com)
   - 🔗 **LinkedIn**: [www.linkedin.com/in/iamshoaibhayat](https://www.linkedin.com/in/iamshoaibhayat)
-- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I'm passionate about leveraging technology to solve real-world problems and have a keen interest in contributing to open-source projects. I also enjoy attending tech conferences and sharing knowledge with the community.**
 
 ## Skills & Interests
@@ -20,7 +18,6 @@
 
 ## Let's Connect!
 - 🌐 [Company Website](https://digitalcode.dev)
-- 🌐 [Website](https://mrshoaib.com)
 - 👔 [LinkedIn](https://linkedin.com/in/iamshoaibhayat)
 
 <!---
