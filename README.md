@@ -20,11 +20,6 @@
 - 🌐 [Company Website](https://digitalcode.dev)
 - 👔 [LinkedIn](https://linkedin.com/in/iamshoaibhayat)
 
-![GitHub followers](https://img.shields.io/github/followers/shoaib-devpy?style=social)
-![GitHub stars](https://img.shields.io/github/stars/shoaib-devpy/shoaib-devpy?style=social)
-![GitHub forks](https://img.shields.io/github/forks/shoaib-devpy/shoaib-devpy?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/shoaib-devpy/shoaib-devpy?style=social)
-
 
 
 
