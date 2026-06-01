@@ -108,7 +108,7 @@ I am always interested in collaborating on innovative projects involving:
 
 👔 LinkedIn: https://www.linkedin.com/in/iamshoaibhayat
 
-📧 Email: [shoaib.devpy@outlook.com](mailto:shoaib.devpy@outlook.com)
+📧 Email: [ceo@digitalcode.dev](mailto:ceo@digitalcode.dev)
 
 🐙 GitHub: https://github.com/shoaib-devpy
 
