@@ -102,9 +102,9 @@ I am always interested in collaborating on innovative projects involving:
 
 ## 📫 Connect With Me
 
-🌐 Website: https://digitalcode.pk
+🌐 Website: https://www.digitalcode.dev
 
-🌐 Personal Website: https://shoaib-devpy.github.io/shoaibhayat.github.io/
+🌐 Personal Website: https://www.shoaibhayat.com
 
 👔 LinkedIn: https://www.linkedin.com/in/iamshoaibhayat
 
