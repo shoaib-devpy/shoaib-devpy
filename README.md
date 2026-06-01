@@ -116,4 +116,4 @@ I am always interested in collaborating on innovative projects involving:
 
 ### ⚡ Fun Fact
 
-I enjoy transforming cutting-edge research into real-world products. Whether it's building AI-powered healthcare solutions, developing blockchain ecosystems, or mentoring technology teams, I'm passionate about creating impactful innovations that solve meaningful problems.
+I enjoy transforming emerging technologies into real-world solutions. From Artificial Intelligence, Large Language Models (LLMs), and Machine Learning to Blockchain, Fintech, HealthTech, Federated Learning, and Cybersecurity, I’m passionate about building innovative products that enhance privacy, security, and user experiences while solving meaningful challenges.
