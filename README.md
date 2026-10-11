@@ -1,119 +1,47 @@
-# Hi there, I'm Shoaib Hayat 👋
+# Hi, I'm Shoaib Hayat 👋
 
-### 🚀 Researcher | Software Engineer | Entrepreneur | AI & Blockchain Architect
+### AI & Cybersecurity Researcher | Software Engineer | Tech Entrepreneur
 
-I'm a researcher, software engineer, and technology entrepreneur based between **Dubai, UAE 🇦🇪** and **Islamabad, Pakistan 🇵🇰**. I hold a **Master of Engineering in Computer Science** from **Donghua University, Shanghai, China**, and currently serve as:
+I'm an AI researcher and software engineer with **8+ years of experience** developing intelligent, secure, and scalable software systems. I hold an **MEng in Computer Science and Technology** from Donghua University, China, under the Chinese Government Scholarship (CSC).
 
-* 👨‍💼 **CEO & Founder** — Digital Code (SMC-Pvt) Ltd.
-* 💼 **IT Manager & Software Engineering Advisor** — IXOLITE DMCC, Dubai
-* 🔬 **Peer Reviewer** — IEEE Access (Clarivate Web of Science)
-* 📚 **Published Researcher** in IEEE & ACM venues
-* 🌍 **Executive Member** — Youth Parliament of Pakistan
-* 🤝 **Volunteer** — United Nations, Geneva
+Currently, I am the **Founder & CEO of Digital Code**, focusing on AI-powered solutions, intelligent automation, and enterprise software engineering.
 
----
+### 🔬 Research Interests
 
-## 🔭 Current Focus
+- Agentic AI, LLMs & Multi-Agent Systems
+- Federated Learning & Privacy-Preserving AI
+- Trustworthy AI & Intelligent Healthcare
+- Cybersecurity & Blockchain
+- Deep Learning & Distributed Intelligent Systems
 
-* Artificial Intelligence & Generative AI
-* Federated Learning & Smart Healthcare
-* Blockchain & Web3 Applications
-* Human Activity Recognition (HAR)
-* Enterprise Software Architecture
-* FinTech & Digital Payment Solutions
-* Decentralized Applications (DApps)
+### 💻 Technical Expertise
 
----
+**AI & ML:** PyTorch, TensorFlow, scikit-learn, Generative AI, RAG, AI Agents
 
-## 💻 Technical Skills
+**Backend & Software:** Python, FastAPI, Django, Node.js, React, Next.js
 
-### Programming Languages
+**Federated & Edge AI:** Flower FL, TensorFlow Lite, Distributed Learning
 
-* Python
-* JavaScript / TypeScript
-* Solidity
+**Security & Blockchain:** Cybersecurity, Solidity, Web3, Smart Contracts
 
-### Frameworks & Technologies
+**Infrastructure:** PostgreSQL, Redis, Docker, AWS, CI/CD
 
-* FastAPI
-* Flask
-* React.js
-* Next.js
-* Node.js
-* Docker
+### 📚 Research & Recognition
 
-### AI & Machine Learning
+- Author/co-author of **13 research publications**, including IEEE and ACM venues
+- **IEEE Access Peer Reviewer** — 28 verified review records
+- **Founder Institute Graduate** — Silicon Valley, USA (2026)
+- **Chinese Government Scholarship (CSC)** Recipient
+- Founder & Research Lead — **FitChain AI**, Smart Healthcare Innovation
 
-* TensorFlow
-* PyTorch
-* Scikit-Learn
-* Pandas
-* NumPy
-* SciPy
-* OpenCV
-* Federated Learning
-* Generative AI
+### 🤝 Connect
 
-### Blockchain & Web3
+🌐 [Personal Website](https://www.shoaibhayat.com) | [Digital Code](https://www.digitalcode.ae)
 
-* Solana
-* Ethereum
-* Polygon
-* Smart Contracts
-* DAO Governance
-* Web3 Integrations
-* Crypto Wallet Development
-* Tokenomics
+💼 [LinkedIn](https://www.linkedin.com/in/iamshoaibhayat) | [Google Scholar](https://scholar.google.com/citations?user=DYCBADQAAAAJ)
 
-### Databases & Cloud
-
-* MongoDB
-* MySQL
-* PostgreSQL
-* DigitalOcean
-* AWS
+📧 ceo@digitalcode.dev
 
 ---
 
-## 🏆 Research Interests
-
-* Artificial Intelligence
-* Federated Learning
-* Blockchain Security
-* Smart Healthcare Systems
-* Cybersecurity
-* Privacy-Preserving Computing
-* Human Activity Recognition (HAR)
-
----
-
-## 🤝 Collaboration
-
-I am always interested in collaborating on innovative projects involving:
-
-* AI & Machine Learning
-* Blockchain & Web3
-* Smart Healthcare Technologies
-* FinTech Platforms
-* Enterprise Software Solutions
-* Research & Development
-
----
-
-## 📫 Connect With Me
-
-🌐 Website: https://www.digitalcode.dev
-
-🌐 Personal Website: https://www.shoaibhayat.com
-
-👔 LinkedIn: https://www.linkedin.com/in/iamshoaibhayat
-
-📧 Email: [ceo@digitalcode.dev](mailto:ceo@digitalcode.dev)
-
-🐙 GitHub: https://github.com/shoaib-devpy
-
----
-
-### ⚡ Fun Fact
-
-I enjoy transforming emerging technologies into real-world solutions. From Artificial Intelligence, Large Language Models (LLMs), and Machine Learning to Blockchain, Fintech, HealthTech, Federated Learning, and Cybersecurity, I’m passionate about building innovative products that enhance privacy, security, and user experiences while solving meaningful challenges.
+*Building trustworthy AI systems and transforming research into real-world innovation.*
